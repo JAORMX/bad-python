@@ -1,1 +1,2 @@
 Flask
+crypto-crawler==3.2.6
