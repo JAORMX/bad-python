@@ -1,1 +1,3 @@
 Flask
+python-oauth2==1.1.1
+invokehttp==2.5.5
